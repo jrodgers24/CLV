@@ -25,19 +25,24 @@
       <rect x="1169.15" y="632.17" width="5" height="57.91"/>
     </g>
   </g>
-  <g id="D2-P4-R9Q-1">
-    <rect class="cls-1" x="158.52" y="350.43" width="11.91" height="4.09"/>
-  </g>
-  <g id="D2-D4-6C-1">
-    <rect class="cls-1" x="506.7" y="503.13" width="20.61" height="6.87"/>
-  </g>
-  <g id="D2-P4-11b-1">
-    <rect class="cls-1" x="1165.39" y="641.48" width="12.17" height="4.09"/>
-  </g>
-  <g id="D2-L4-11b-1">
-    <rect class="cls-1" x="1183.3" y="641.48" width="12.17" height="4.09"/>
+  <g id="D404">
+    <g class="cls-1">
+      <polygon points="1168.67 641.7 1163.67 641.7 1163.67 606.85 1273.54 606.85 1273.54 624.74 1268.54 624.74 1268.54 611.85 1168.67 611.85 1168.67 641.7"/>
+    </g>
   </g>
   <g id="D2-P4-12B-1">
-    <rect class="cls-1" x="1264.17" y="549.65" width="12.17" height="4.09"/>
+    <rect class="cls-1" x="1264.26" y="549.48" width="12.39" height="4.43"/>
+  </g>
+  <g id="D2-P4-R9Q-1">
+    <rect class="cls-1" x="158.43" y="350.8" width="12" height="4.2"/>
+  </g>
+  <g id="D2-L4-11B-1">
+    <rect class="cls-1" x="1183.39" y="641.7" width="12.39" height="4.3"/>
+  </g>
+  <g id="D2-P4-11B-1">
+    <rect class="cls-1" x="1165.52" y="641.7" width="12.52" height="4.3"/>
+  </g>
+  <g id="D2-D4-6C-1">
+    <rect class="cls-1" x="506.43" y="502.26" width="21.13" height="8.35"/>
   </g>
 </svg>
