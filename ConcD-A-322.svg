@@ -12,6 +12,12 @@
       .cls-1, .cls-2 {
         opacity: .7;
       }
+
+      .cls-3 {
+        fill: #231f20;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 12px;
+      }
     </style>
   </defs>
   <g id="Layer_1" data-name="Layer 1">
@@ -28,6 +34,8 @@
     <g class="cls-2">
       <rect x="1563.12" y="536.87" width="5" height="64.96"/>
     </g>
+    <text class="cls-3" transform="translate(1528.75 579.19)"><tspan x="0" y="0">CD207</tspan></text>
+    <text class="cls-3" transform="translate(1693.17 762.04)"><tspan x="0" y="0">D425</tspan></text>
   </g>
   <g id="CD026">
     <g class="cls-2">
@@ -55,6 +63,7 @@
     <g class="cls-2">
       <rect x="1568.12" y="745.76" width="22.18" height="5"/>
     </g>
+    <text class="cls-3" transform="translate(1000.51 598.04)"><tspan x="0" y="0">CD206</tspan></text>
   </g>
   <g id="D2-P4-27A-2">
     <rect class="cls-2" x="1590.3" y="802.3" width="4.39" height="12.39"/>
